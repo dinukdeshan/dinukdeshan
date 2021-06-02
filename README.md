@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dinukdeshan currently working as Support Engineer
+- 👋 Hi, I’m @dinukdeshan currently working as a Support Engineer for an ERP system sw
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on that's something i need to figrue out my self so until then
